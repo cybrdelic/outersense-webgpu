@@ -1,0 +1,7 @@
+{
+  "name": "OculusFocus",
+  "description": "High-performance WebGPU gaze tracking and attention analytics using quaternion-based head pose estimation and Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
